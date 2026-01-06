@@ -29,7 +29,7 @@ Tog'irlanagn bo'limlar
 
 */
 
-$bot_token = "8551657001:AAEFBkGrkDgpeW-U-Vvl_XBqfz4uCdTSf3M"; // bot token
+$bot_token = "8551657001:AAFiQUY0T5uFB65Dak78ngy1uLBsFNh5GuQ"; // bot token
 
 define('API_KEY',$bot_token);
 $obito_us = "7179662037"; // admin_id
@@ -3397,5 +3397,6 @@ bot('sendMessage',[
 ]);
 }
 }
+
 
 //<---- @obito_us ---->//
